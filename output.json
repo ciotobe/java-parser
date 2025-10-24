@@ -1,0 +1,1633 @@
+{
+  "localPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot",
+  "analysisDate" : "2025-10-24T11:12:18.095661400Z",
+  "overallStatistics" : {
+    "totalProjects" : 36,
+    "totalMainFiles" : 0,
+    "codeStatistics" : {
+      "testFields" : 0,
+      "mainEnums" : 0,
+      "totalFields" : 0,
+      "testInterfaces" : 0,
+      "testFiles" : 0,
+      "totalMethods" : 0,
+      "mainMethods" : 0,
+      "totalEnums" : 0,
+      "mainClasses" : 0,
+      "testMethods" : 0,
+      "testClasses" : 0,
+      "mainInterfaces" : 0,
+      "totalClasses" : 0,
+      "totalInterfaces" : 0,
+      "mainFields" : 0,
+      "testEnums" : 0,
+      "mainFiles" : 0,
+      "totalFiles" : 0
+    },
+    "totalTestFiles" : 0,
+    "totalDependencies" : 0
+  },
+  "config" : {
+    "detailedMethodAnalysis" : true,
+    "analyzeDependencies" : true,
+    "includeTestCode" : true
+  },
+  "mavenProjects" : [ {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\dockerTest\\projects\\build-image-multi-module",
+    "projectName" : "build-image-multi-module",
+    "pom" : {
+      "build" : {
+        "outputDirectory" : "target/classes",
+        "testOutputDirectory" : "target/test-classes",
+        "sourceDirectory" : "src/main/java",
+        "testSourceDirectory" : "src/test/java"
+      },
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "build-image-multi-module",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "library", "app" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\dockerTest\\projects\\build-image-multi-module",
+    "projectName" : "build-image-multi-module",
+    "pom" : {
+      "build" : {
+        "outputDirectory" : "target/classes",
+        "testOutputDirectory" : "target/test-classes",
+        "sourceDirectory" : "src/main/java",
+        "testSourceDirectory" : "src/test/java"
+      },
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "build-image-multi-module",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "library", "app" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-custom-layout",
+    "projectName" : "jar-custom-layout",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "jar-custom-layout",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "layout", "custom", "default" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-custom-layout",
+    "projectName" : "jar-custom-layout",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "jar-custom-layout",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "layout", "custom", "default" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-custom-layout",
+    "projectName" : "jar-custom-layout",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "jar-custom-layout",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "layout", "custom", "default" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-layered",
+    "projectName" : "jar-layered",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-layered",
+    "projectName" : "jar-layered",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-layered",
+    "projectName" : "jar-layered",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-layered-custom",
+    "projectName" : "jar-layered-custom",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-classifier", "jar-release", "jar-snapshot", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-layered-custom",
+    "projectName" : "jar-layered-custom",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-classifier", "jar-release", "jar-snapshot", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-layered-custom",
+    "projectName" : "jar-layered-custom",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-classifier", "jar-release", "jar-snapshot", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-layered-custom",
+    "projectName" : "jar-layered-custom",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-classifier", "jar-release", "jar-snapshot", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-layered-disabled",
+    "projectName" : "jar-layered-disabled",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-layered-disabled",
+    "projectName" : "jar-layered-disabled",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-layered-disabled",
+    "projectName" : "jar-layered-disabled",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-lib-name-conflict",
+    "projectName" : "jar-lib-name-conflict",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "jar-lib-name-conflict",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "acme-lib", "another-acme-lib", "test-project" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-lib-name-conflict",
+    "projectName" : "jar-lib-name-conflict",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "jar-lib-name-conflict",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "acme-lib", "another-acme-lib", "test-project" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-lib-name-conflict",
+    "projectName" : "jar-lib-name-conflict",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "jar-lib-name-conflict",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "acme-lib", "another-acme-lib", "test-project" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-no-tools",
+    "projectName" : "jar-no-tools",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-no-tools",
+    "projectName" : "jar-no-tools",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\jar-no-tools",
+    "projectName" : "jar-no-tools",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "jar" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-layered",
+    "projectName" : "war-layered",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-layered",
+    "projectName" : "war-layered",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-layered",
+    "projectName" : "war-layered",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-layered-custom",
+    "projectName" : "war-layered-custom",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-classifier", "jar-release", "jar-snapshot", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-layered-custom",
+    "projectName" : "war-layered-custom",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-classifier", "jar-release", "jar-snapshot", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-layered-custom",
+    "projectName" : "war-layered-custom",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-classifier", "jar-release", "jar-snapshot", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-layered-custom",
+    "projectName" : "war-layered-custom",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-classifier", "jar-release", "jar-snapshot", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-layered-disabled",
+    "projectName" : "war-layered-disabled",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-layered-disabled",
+    "projectName" : "war-layered-disabled",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-layered-disabled",
+    "projectName" : "war-layered-disabled",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-no-tools",
+    "projectName" : "war-no-tools",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-no-tools",
+    "projectName" : "war-no-tools",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-no-tools",
+    "projectName" : "war-no-tools",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "aggregator",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar-snapshot", "jar-release", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-reactor",
+    "projectName" : "war-reactor",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "war-reactor",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar", "war" ],
+      "dependencies" : [ ]
+    }
+  }, {
+    "sourceCode" : {
+      "mainSourceFiles" : [ ],
+      "testSourceFileCount" : 0,
+      "testSourceFiles" : [ ],
+      "mainSourceFileCount" : 0,
+      "statistics" : {
+        "testFields" : 0,
+        "mainEnums" : 0,
+        "totalFields" : 0,
+        "testInterfaces" : 0,
+        "testFiles" : 0,
+        "totalMethods" : 0,
+        "mainMethods" : 0,
+        "totalEnums" : 0,
+        "mainClasses" : 0,
+        "testMethods" : 0,
+        "testClasses" : 0,
+        "mainInterfaces" : 0,
+        "totalClasses" : 0,
+        "totalInterfaces" : 0,
+        "mainFields" : 0,
+        "testEnums" : 0,
+        "mainFiles" : 0,
+        "totalFiles" : 0
+      }
+    },
+    "projectPath" : "C:\\Users\\王士杰\\AppData\\Local\\Temp\\github-maven-analysis14620462977672439882\\spring-boot\\build-plugin\\spring-boot-maven-plugin\\src\\intTest\\projects\\war-reactor",
+    "projectName" : "war-reactor",
+    "pom" : {
+      "groupId" : "org.springframework.boot.maven.it",
+      "name" : null,
+      "description" : null,
+      "artifactId" : "war-reactor",
+      "packaging" : "pom",
+      "version" : "0.0.1.BUILD-SNAPSHOT",
+      "properties" : {
+        "project.build.sourceEncoding" : "UTF-8",
+        "maven.compiler.source" : "@java.version@",
+        "maven.compiler.target" : "@java.version@"
+      },
+      "modules" : [ "jar", "war" ],
+      "dependencies" : [ ]
+    }
+  } ],
+  "repositoryUrl" : "https://github.com/spring-projects/spring-boot.git"
+}
